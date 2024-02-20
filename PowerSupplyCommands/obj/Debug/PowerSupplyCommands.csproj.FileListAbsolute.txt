@@ -1,0 +1,7 @@
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\bin\Debug\PowerSupplyCommands.dll
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\bin\Debug\PowerSupplyCommands.pdb
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\obj\Debug\PowerSupplyCommands.csproj.CoreCompileInputs.cache
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\obj\Debug\PowerSupplyCommands.csproj.CopyComplete
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\obj\Debug\PowerSupplyCommands.dll
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\obj\Debug\PowerSupplyCommands.pdb

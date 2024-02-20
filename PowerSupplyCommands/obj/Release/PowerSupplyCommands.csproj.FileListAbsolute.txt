@@ -1,0 +1,10 @@
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\bin\Release\PowerSupplyCommands.dll
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\bin\Release\PowerSupplyCommands.pdb
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\bin\Release\NationalInstruments.Common.dll
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\bin\Release\NationalInstruments.Common.Native.dll
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\bin\Release\NationalInstruments.VisaNS.dll
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\obj\Release\PowerSupplyCommands.csprojAssemblyReference.cache
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\obj\Release\PowerSupplyCommands.csproj.CoreCompileInputs.cache
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\obj\Release\PowerSupplyCommands.csproj.CopyComplete
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\obj\Release\PowerSupplyCommands.dll
+C:\Projetos\PowerSupplyCommands\PowerSupplyCommands\obj\Release\PowerSupplyCommands.pdb
